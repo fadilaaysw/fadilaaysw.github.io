@@ -1,4 +1,4 @@
-# Fadila -  Portfolio
+# Fadila Wahidah -  Portfolio
 
 Welcome! This repository presents my data analytics and business intelligence portfolio, featuring hands-on projects in data analysis, dashboard development, statistical analysis, database design, and Python-based applications. The projects demonstrate my ability to turn raw data into clear insights for data-driven decision-making.
 
