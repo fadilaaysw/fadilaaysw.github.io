@@ -28,6 +28,11 @@ Key Skills: Database design, query development, data structuring*
 Tools: Microsoft Excel
 Key Skills: Data cleaning, descriptive analysis, data visualization*
 
+### 📊 Excel Sales Dashboard – Sales Performance Analysis
+*Developed an interactive sales performance dashboard using Microsoft Excel to analyze sales, profit, quantity, profit margin, monthly sales trends, segment-wise sales composition, and top-performing products through Pivot Tables, Pivot Charts, slicers, and dynamic filters.
+Tools: Microsoft Excel
+Key Skills: Pivot Table, dashboard development, data visualization, KPI analysis, business performance analysis*
+
 ### 📊 Statistical Analysis – BPS Data (SPSS)
 *Performed statistical and crosstab analysis on multiple BPS datasets using SPSS; only sample outputs are shown due to data confidentiality.
 Tools: SPSS
